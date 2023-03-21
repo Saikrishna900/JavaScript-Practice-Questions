@@ -16,16 +16,23 @@
 ### 2.   Write a JS code to print a 2D array
 ### 3. Write a JS code to delete all occurrence of element in given array
 ### 4.  Write a JS code to find the power of a number using for loop
-4.) Write a JS code to print a pattern using for loop
-```
-/* 1 
+### 5. Write a JS code to print a pattern using for loop
+```js
+   1 
+
    1 2 
+   
    1 2 3 
+   
    1 2 3 4 
+   
    1 2 3 4 5 
+   
    1 2 3 4 5 6 
+   
    1 2 3 4 5 6 7 
-   1 2 3 4 5 6 7 8 */
+   
+   1 2 3 4 5 6 7 8 
 ```
 5.) Write a JS code to find duplicate values in a given array
 6.) Write a JS code to calculate the sum of digits in a number
